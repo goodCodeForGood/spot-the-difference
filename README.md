@@ -8,7 +8,12 @@ Since childhood, I have always enjoyed spotting differences between pictures whe
 Spotlight lets a player identify a certain number of differences between each image within the time limit, depending on their chosen level: easy, medium, or hard.
 
 ## How I built it
-Amazon Q Developer: to generate 90% of the game code AWS Amplify Hosting: to deploy Amazon S3: to store game assets including images Amazon DynamoDB: to store game data including player scores and progress Amazon API Gateway: to handle requests AWS Lambda: to use serverless functions for backend processing
+Amazon Q Developer: to generate 90% of the game code 
+AWS Amplify Hosting: to deploy 
+Amazon S3: to store game assets including images 
+Amazon DynamoDB: to store game data including player scores and progress 
+Amazon API Gateway: to handle requests 
+AWS Lambda: to use serverless functions for backend processing
 
 ## Challenges I ran into
 This was my first time learning about and working with AWS services and Amazon Q developer. Figuring out which AWS services would be appropriate to use for my features and understanding how to implement them was a bit of a challenge, yet a fun experience.
