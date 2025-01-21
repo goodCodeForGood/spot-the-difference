@@ -1,4 +1,4 @@
-# spot-the-difference
+# Spotlight 🔎
 AWS Game Builder Challenge Hackathon project
 
 ## Inspiration
